@@ -83,14 +83,11 @@
 
 <br/>
 
-#### Top Repositories
+#### Top Repository
 
 
 <a href="https://github.com/priyam1234-spec/discord-music-bot-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyam1234-spec&repo=discord-music-bot-v2&theme=buefy" />
 </a>
-<a href="https://github.com/priyam1234-spec/moderation-bot-made-by-priyam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyam1234-spec&repo=moderation-bot-made-by-priyam&theme=buefy" />
-</a> 
 
 
