@@ -1,4 +1,4 @@
-### Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://expy.bio/mrpriyamyt)
+## Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://expy.bio/mrpriyamyt)
 ## I'm a Coder, Gamer, And Swag
 
 - 🔭 I’m currently Coding Discord Bots!
