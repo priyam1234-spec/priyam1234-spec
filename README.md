@@ -1,6 +1,10 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-## Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://expy.bio/mrpriyamyt) 
-   I'm a Coder, Gamer, And Swag
+### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://expy.bio/mrpriyamyt)</div>
+## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
 - 🔭 I’m currently Coding Discord Bots!
   
