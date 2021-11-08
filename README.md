@@ -62,7 +62,7 @@
 
 <br/>
 
-<details>
+
   <h4>⚡ GitHub Stats</h4>
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
@@ -83,4 +83,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyam1234-spec&repo=moderation-bot-made-by-priyam&theme=buefy" />
 </a> 
 
-</details>
+
