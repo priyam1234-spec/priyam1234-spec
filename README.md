@@ -6,6 +6,9 @@
 ### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://expy.bio/mrpriyamyt)</div>
 ## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
+# Discord - 
+![Discord](https://discord.c99.nl/widget/theme-3/815796546901770251.png)
+
 - 🔭 I’m currently Coding Discord Bots!
   
 
