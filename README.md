@@ -6,8 +6,9 @@
 ### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
 ## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
-# Discord And Website - 
+# Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-3/815796546901770251.png)
+# Website - 
 [![Website](https://img.shields.io/website?label=www.priyam.ml&style=for-the-badge&url=https%3A%2F%2Fphantomcodes.ga)](https://www.priyam.ml)
 
 - 🔭 I’m currently Coding Discord Bots!
