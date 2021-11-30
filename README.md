@@ -16,17 +16,6 @@
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!
-
-### Connect with me:
-
-<div align="center">
-<a href="https://github.com/priyam1234-spec" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCTZVqnPflGCJk3Yv5eepTUA" target="_blank">
-<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
-</a>
-</div>  
  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
