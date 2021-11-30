@@ -80,16 +80,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/>
 
-<div align="center">
-<p><a href="https://github.com/priyam1234-spec"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam1234-spec&amp;layout=compact" alt="Top Langs"></a></p></div> 
-
-<br/>
-
-#### Top Repository
-
-
-<a href="https://github.com/priyam1234-spec/discord-music-bot-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyam1234-spec&repo=discord-music-bot-v2&theme=buefy" />
-</a>
-
 
