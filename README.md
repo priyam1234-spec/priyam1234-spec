@@ -74,7 +74,6 @@
 4. 🗣 Commented on [#10](https://github.com/DarrenOfficial/lavalink-list/issues/10) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 5. 💪 Opened PR [#10](https://github.com/DarrenOfficial/lavalink-list/pull/10) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
-
 <br/>
 
   <summary>⚡ GitHub Stats</summary>
