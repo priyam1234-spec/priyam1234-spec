@@ -19,11 +19,6 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!
 
-## Spotify Playing 🎧
-
-[<img src="https://novatorem-psi-nine.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/61cqu2fx5tp3svzoayaedxtqs)
-
-
  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
