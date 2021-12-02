@@ -66,9 +66,14 @@
 
 <br/>
 
+<h4>⚡ Recent Activity </h4>
+<!--START_SECTION:activity-->
 
-  <h4>⚡ GitHub Stats</h4>
+<br/>
+
+  <summary>⚡ GitHub Stats</summary>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/>
+
 
 
