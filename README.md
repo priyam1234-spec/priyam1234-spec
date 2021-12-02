@@ -21,7 +21,7 @@
 
 ## Spotify Playing 🎧
 
-[<img src="https://novatorem-psi-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/61cqu2fx5tp3svzoayaedxtqs)
+[<img src="https://novatorem-j61onyqwb-priyam1234-spec.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/61cqu2fx5tp3svzoayaedxtqs)
 
 
  
