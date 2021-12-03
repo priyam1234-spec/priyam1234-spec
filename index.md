@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-You can use the [editor on GitHub](https://github.com/priyam1234-spec/priyam1234-spec/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
+## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Discord - 
+![Discord](https://discord.c99.nl/widget/theme-3/815796546901770251.png)
+# Website - 
+[![Website](https://img.shields.io/website?label=www.priyam.ml&style=for-the-badge&url=https%3A%2F%2Fphantomcodes.ga)](https://www.priyam.ml)
 
-### Markdown
+- 🔭 I’m currently Coding Discord Bots!
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌱 I’m currently coding in JavaScript, CSS and HTML..
+  
 
-```markdown
-Syntax highlighted code block
+- ❓  I am in love with coding Discord Bots, I also love helping!
 
-# Header 1
-## Header 2
-### Header 3
+### Spotify Playing 🎧
+[![Nothing Playing](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&cover_image=true&theme=novatorem&bar_color=1799fd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&redirect=true)
 
-- Bulleted
-- List
+## My Skill Set 
+<table><tr><td valign="top" width="33%">
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</td><td valign="top" width="33%">
 
-### Jekyll Themes
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/priyam1234-spec/priyam1234-spec/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</td><td valign="top" width="33%">
 
-### Support or Contact
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</td></tr></table>  
+
+<br/> 
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [How To Make A Lavalink Server On Repl It In 3 Minutes!](https://www.youtube.com/watch?v=CsPVTc_7sUs)
+- [How To Make Discord Music Without Coding! v3!](https://www.youtube.com/watch?v=5xSDeZGumRc)
+- [How To Make A Music Bot Without Coding v2! | Repl.it](https://www.youtube.com/watch?v=Yd5FqvKqm-Y)
+- [How To Make A Moderation Bot Without Coding | Repl.it](https://www.youtube.com/watch?v=n8vhuXMPkRM)
+- [How To Make A Music Bot Without Coding! | Repl.it](https://www.youtube.com/watch?v=xamRvWITgKY)
+<!-- YOUTUBE:END -->
+
+<br/>
+
+  <h4>⚡ GitHub Stats</h4>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<br/>
+
+
