@@ -20,7 +20,7 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!
 
 ### Spotify Playing 🎧
-[![Nothing Playing](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&cover_image=true&theme=novatorem&bar_color=00fbff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&redirect=true)
+[![Nothing Playing](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&cover_image=true&theme=novatorem&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=61cqu2fx5tp3svzoayaedxtqs&redirect=true)
 
 ## My Skill Set 
 <table><tr><td valign="top" width="33%">
