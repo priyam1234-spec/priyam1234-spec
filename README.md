@@ -71,11 +71,6 @@
 
 <h4>⚡ Recent Activity</h4>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/DarrenOfficial/lavalink-list/pull/21) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-2. 💪 Opened PR [#14](https://github.com/DarrenOfficial/lavalink-list/pull/14) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-3. 💪 Opened PR [#13](https://github.com/DarrenOfficial/lavalink-list/pull/13) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-4. 🗣 Commented on [#10](https://github.com/DarrenOfficial/lavalink-list/issues/10) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
-5. 💪 Opened PR [#10](https://github.com/DarrenOfficial/lavalink-list/pull/10) in [DarrenOfficial/lavalink-list](https://github.com/DarrenOfficial/lavalink-list)
 <!--END_SECTION:activity-->
 
   <h4>⚡ GitHub Stats</h4>
