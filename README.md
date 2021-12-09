@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
-    <a href="https://github.com/priyam1234-spec">
-        <img align="right" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2" />
-    </a> 
   
 
 ### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
@@ -13,6 +10,9 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/815796546901770251.png)
 # Website - 
 [![Website](https://img.shields.io/website?label=www.priyam.ml&style=for-the-badge&url=https%3A%2F%2Fphantomcodes.ga)](https://www.priyam.ml)
+    <a href="https://github.com/priyam1234-spec">
+        <img align="right" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2" />
+    </a> 
 
 - 🔭 I’m currently Coding Discord Bots!
   
