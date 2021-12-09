@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+    <a href="https://github.com/priyam1234-spec">
+        <img align="right" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2" />
+    </a> 
   
 
 ### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
