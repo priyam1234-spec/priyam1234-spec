@@ -62,11 +62,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing Minecraft Duels On HylexMC! | Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=4UCBOqTvBIc)
 - [How To Make A Lavalink Server On Repl It In 3 Minutes!](https://www.youtube.com/watch?v=CsPVTc_7sUs)
 - [How To Make Discord Music Without Coding! v3!](https://www.youtube.com/watch?v=5xSDeZGumRc)
 - [How To Make A Music Bot Without Coding v2! | Repl.it](https://www.youtube.com/watch?v=Yd5FqvKqm-Y)
 - [How To Make A Moderation Bot Without Coding | Repl.it](https://www.youtube.com/watch?v=n8vhuXMPkRM)
-- [How To Make A Music Bot Without Coding! | Repl.it](https://www.youtube.com/watch?v=xamRvWITgKY)
 <!-- YOUTUBE:END -->
 
 <br/>
