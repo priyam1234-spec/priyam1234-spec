@@ -72,7 +72,17 @@
 <br/>
 
   <h4>⚡ GitHub Stats</h4>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  <p align="left">
+    <a href="https://github.com/priyam1234-spec/">
+        <img src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=00F3FF&hide_border=true/" />
+    </a>
+    <a href="https://github.com/priyam1234-spec/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam1234-spec&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=DB1CFF&hide_border=true/" />
+    </a>
+    <a href="https://github.com/priyam1234-spec/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=priyam1234-spec&hide_border=true&background=0D1117&currStreakLabel=00F3FF&sideLabels=00F3FF&currStreakNum=00F3FF&dates=00F3FF&sideNums=00F3FF&fire=00F3FF&ring=00F3FF&stroke=00F3FF)](https://git.io/streak-stats" />
+    </a>
+</p>  
 <br/>
 
 
