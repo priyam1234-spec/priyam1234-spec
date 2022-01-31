@@ -1,4 +1,4 @@
-### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
+### <div align="center">👋 Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
 ## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
 # Discord - 
