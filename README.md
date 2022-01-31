@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-  
-
 ### <div align="center">Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
 ## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
@@ -25,7 +20,7 @@
 ### Spotify Playing 🎧
 [![Spotify Playing](https://novatorem-psi-nine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/61cqu2fx5tp3svzoayaedxtqs)
 ## Spotify Recently Played 🎵
-![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=61cqu2fx5tp3svzoayaedxtqs)
+![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=61cqu2fx5tp3svzoayaedxtqs&unique=true)
 ## My Skill Set 
 <table><tr><td valign="top" width="33%">
 
