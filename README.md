@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Set Custom IP On DNxRG Hosting! | Mr.Priyam37 Gaming #customip #dnxrg #dnxrghosting](https://www.youtube.com/watch?v=tWRfQX91OUg)
 - [Can You Pause At Right Time?  #minecraft #shorts #gaming #trending](https://www.youtube.com/watch?v=C8kW5yFX5-U)
 - [Minecraft .vom #shorts #trending](https://www.youtube.com/watch?v=zCNt5ksmv8k)
 - [Playing Minecraft Duels On HylexMC! | Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=4UCBOqTvBIc)
 - [How To Make A Lavalink Server On Repl It In 3 Minutes!](https://www.youtube.com/watch?v=CsPVTc_7sUs)
-- [How To Make Discord Music Without Coding! v3!](https://www.youtube.com/watch?v=5xSDeZGumRc)
 <!-- YOUTUBE:END -->
 
 <br/>
