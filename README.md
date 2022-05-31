@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Amazing Minecraft Seed! #shorts #minecraft #minecraftseeds](https://www.youtube.com/watch?v=CitnfNQviTI)
+- [Insane Minecraft Loop! #minecraft #shorts #shortvideo](https://www.youtube.com/watch?v=THSoE6q16IE)
+- [Can You Pause At The Right Time?? #shorts #minecraft #shortvideo](https://www.youtube.com/watch?v=wrVxIxB8Z8s)
 - [How To Set Custom IP On DNxRG Hosting! | Mr.Priyam37 Gaming #customip #dnxrg #dnxrghosting](https://www.youtube.com/watch?v=tWRfQX91OUg)
 - [Can You Pause At Right Time?  #minecraft #shorts #gaming #trending](https://www.youtube.com/watch?v=C8kW5yFX5-U)
-- [Minecraft .vom #shorts #trending](https://www.youtube.com/watch?v=zCNt5ksmv8k)
-- [Playing Minecraft Duels On HylexMC! | Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=4UCBOqTvBIc)
-- [How To Make A Lavalink Server On Repl It In 3 Minutes!](https://www.youtube.com/watch?v=CsPVTc_7sUs)
 <!-- YOUTUBE:END -->
 
 <br/>
