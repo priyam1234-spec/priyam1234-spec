@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Perfect Minecraft Parkour Loop! #shorts #minecraftparkour #loop #parkourloop #minecraft](https://www.youtube.com/watch?v=JLUHitrpsww)
 - [Minecraft INSANE Parkour Transition Edit Loop! #shorts#parkourminecraft #minecraft#minecraftparkour](https://www.youtube.com/watch?v=Njv-nwqmzS4)
 - [Queen Elizabeth Dancing #shorts](https://www.youtube.com/watch?v=abOYkfHXCvM)
 - [I am back!](https://www.youtube.com/watch?v=sog-QV6BAT4)
 - [Perfect Minecraft Loop | #shorts #minecraft #shortvideo #loop #gaming](https://www.youtube.com/watch?v=5klJljbhDvk)
-- [Amazing Minecraft Seed! #shorts #minecraft #minecraftseeds](https://www.youtube.com/watch?v=CitnfNQviTI)
 <!-- YOUTUBE:END -->
 
 <br/>
