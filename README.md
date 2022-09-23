@@ -2,7 +2,7 @@
 ## <div align="center">I'm a Coder, Gamer, And Swag</div>
 
 # Discord - 
-![Discord](https://discord.c99.nl/widget/theme-3/815796546901770251.png)
+![Discord](https://discord.c99.nl/widget/theme-2/908295437658775563.png)
 # Website - 
 [![Website](https://img.shields.io/website?label=www.priyam.ml&style=for-the-badge&url=https%3A%2F%2Fwww.priyam.ml)](https://www.priyam.ml)
     <a href="https://github.com/priyam1234-spec">
@@ -18,7 +18,7 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!
 
 ### Spotify Playing 🎧
-[![Spotify Playing](https://novatorem-psi-nine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/61cqu2fx5tp3svzoayaedxtqs)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ie29zuuwdt36epywbts25ctil&cover_image=true&theme=compact)]
 ## Spotify Recently Played 🎵
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=61cqu2fx5tp3svzoayaedxtqs&unique=true)
 ## My Skill Set 
