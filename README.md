@@ -20,7 +20,7 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ie29zuuwdt36epywbts25ctil&cover_image=true&theme=compact)]
 ## Spotify Recently Played 🎵
-![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=61cqu2fx5tp3svzoayaedxtqs&unique=true)
+![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=ie29zuuwdt36epywbts25ctil)
 ## My Skill Set 
 <table><tr><td valign="top" width="33%">
 
