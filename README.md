@@ -18,7 +18,7 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ie29zuuwdt36epywbts25ctil&cover_image=true&theme=compact)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ie29zuuwdt36epywbts25ctil&cover_image=true&theme=compact)
 ## Spotify Recently Played 🎵
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=ie29zuuwdt36epywbts25ctil)
 ## My Skill Set 
