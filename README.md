@@ -1,5 +1,5 @@
 ### <div align="center">👋 Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
-## <div align="center">I'm a Coder, Gamer, And Swag</div>
+## <div align="center">I'm a Coder and A Gamer</div>
 
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-2/908295437658775563.png)
@@ -81,6 +81,7 @@
     </a>
 </p>  
 <br/>
+
 
 
 
