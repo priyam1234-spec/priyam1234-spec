@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing Duels On HylexMC!](https://www.youtube.com/watch?v=uOy93kW7Jv4)
 - [How To Make A Giveaway Bot Without Coding! | Repl.It | Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=nzFtS3h1VBM)
 - [Minecraft Perfect Drop Loop! #minecraft #shorts #loop #minecraftloop](https://www.youtube.com/watch?v=g2W4U6AP5b8)
 - [Perfect Minecraft Parkour Loop! #shorts #minecraftparkour #loop #parkourloop #minecraft](https://www.youtube.com/watch?v=JLUHitrpsww)
 - [Minecraft INSANE Parkour Transition Edit Loop! #shorts#parkourminecraft #minecraft#minecraftparkour](https://www.youtube.com/watch?v=Njv-nwqmzS4)
-- [Queen Elizabeth Dancing #shorts](https://www.youtube.com/watch?v=abOYkfHXCvM)
 <!-- YOUTUBE:END -->
 
 <br/>
