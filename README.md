@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Perfectly timed photo&#39;s | #shorts](https://www.youtube.com/watch?v=3OTt8wl2rdI)
+- [Minecraft ENDLESS STAIRCASE Loop #Shorts](https://www.youtube.com/watch?v=B0cSDTN4c6k)
 - [So I Got  &quot;Clapped&quot; By A &quot;Youtuber&quot; With 10 Subs! LOL @gurchikGG](https://www.youtube.com/watch?v=CurWN1ZSqhU)
 - [Playing Duels On HylexMC!](https://www.youtube.com/watch?v=uOy93kW7Jv4)
 - [How To Make A Giveaway Bot Without Coding! | Repl.It | Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=nzFtS3h1VBM)
-- [Minecraft Perfect Drop Loop! #minecraft #shorts #loop #minecraftloop](https://www.youtube.com/watch?v=g2W4U6AP5b8)
-- [Perfect Minecraft Parkour Loop! #shorts #minecraftparkour #loop #parkourloop #minecraft](https://www.youtube.com/watch?v=JLUHitrpsww)
 <!-- YOUTUBE:END -->
 
 <br/>
