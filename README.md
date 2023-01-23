@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Memes that I found on the internet part 3](https://www.youtube.com/watch?v=mYjhYbNUKcM)
 - [Memes that I found on the internet part 2](https://www.youtube.com/watch?v=XvFKWopSTkg)
 - [Random memes I found on the internet #1](https://www.youtube.com/watch?v=wr5FU5p7fLA)
 - [Perfectly timed photo&#39;s | #shorts](https://www.youtube.com/watch?v=3OTt8wl2rdI)
 - [Minecraft ENDLESS STAIRCASE Loop #Shorts](https://www.youtube.com/watch?v=B0cSDTN4c6k)
-- [So I Got  &quot;Clapped&quot; By A &quot;Youtuber&quot; With 10 Subs! LOL @gurchikgg9567](https://www.youtube.com/watch?v=CurWN1ZSqhU)
 <!-- YOUTUBE:END -->
 
 <br/>
