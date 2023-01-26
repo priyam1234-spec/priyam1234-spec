@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Random memes I found on the internet part 6 #shorts #memes](https://www.youtube.com/watch?v=1y24euBm8uQ)
+- [random memes i found on the internet part 5 #shorts #memes](https://www.youtube.com/watch?v=ia4MaYre6y8)
+- [Random memes I found on the internet part 4 #shorts](https://www.youtube.com/watch?v=Wmfn5MHT5lw)
 - [Memes that I found on the internet part 3](https://www.youtube.com/watch?v=mYjhYbNUKcM)
 - [Memes that I found on the internet part 2](https://www.youtube.com/watch?v=XvFKWopSTkg)
-- [Random memes I found on the internet #1](https://www.youtube.com/watch?v=wr5FU5p7fLA)
-- [Perfectly timed photo&#39;s | #shorts](https://www.youtube.com/watch?v=3OTt8wl2rdI)
-- [Minecraft ENDLESS STAIRCASE Loop #Shorts](https://www.youtube.com/watch?v=B0cSDTN4c6k)
 <!-- YOUTUBE:END -->
 
 <br/>
