@@ -59,11 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make a discord music bot on repl.it without coding v4! | by Mr.Priyam37 Gaming](https://www.youtube.com/watch?v=QWE8UBfeNxE)
 - [Random memes I found on the internet part 6 #shorts #memes](https://www.youtube.com/watch?v=1y24euBm8uQ)
 - [random memes i found on the internet part 5 #shorts #memes](https://www.youtube.com/watch?v=ia4MaYre6y8)
 - [Random memes I found on the internet part 4 #shorts](https://www.youtube.com/watch?v=Wmfn5MHT5lw)
 - [Memes that I found on the internet part 3](https://www.youtube.com/watch?v=mYjhYbNUKcM)
-- [Memes that I found on the internet part 2](https://www.youtube.com/watch?v=XvFKWopSTkg)
 <!-- YOUTUBE:END -->
 
 <br/>
