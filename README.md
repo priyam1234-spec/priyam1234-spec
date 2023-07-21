@@ -1,5 +1,4 @@
-### <div align="center">👋 Hi there, I'm Priyam - aka [Mr.Priyam37 Gaming](https://www.priyam.ml)</div>
-## <div align="center">I'm a Coder and A Gamer</div>
+# <div align="center">👋 Hi there, I'm [Priyam](https://voyagerxd.repl.co)</div>
 
 # Discord - 
 ![Discord](https://discord.c99.nl/widget/theme-2/1107848440261660742.png)
@@ -8,15 +7,6 @@
     <a href="https://github.com/priyam1234-spec">
         <img align="right" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2" />
     </a> 
-
-- 🔭 I’m currently Coding Discord Bots!
-  
-
-- 🌱 I’m currently coding in JavaScript, CSS and HTML..
-  
-
-- ❓  I am in love with coding Discord Bots, I also love helping!
-
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&redirect=true)
 ## Spotify Recently Played 🎵
