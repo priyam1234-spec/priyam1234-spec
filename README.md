@@ -10,11 +10,12 @@
 ## <div align ="center"> Profile Views </div>
 <img align="center" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2"/>
 
-## Spotify Playing 🎧
+## <div align ="center">Spotify Playing 🎧 </div>
 
-<p align = "center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&redirect=true) </p>
+<div align ="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true">
+
 ## Spotify Recently Played 🎵
-<p align ="center">[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=VoyagerXD)](https://www.last.fm/user/VoyagerXD) </p>
+<div align ="center">[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=VoyagerXD)](https://www.last.fm/user/VoyagerXD) </div>
 
 
   <h4>⚡ GitHub Stats</h4>
