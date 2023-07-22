@@ -11,14 +11,15 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2"/>
 
 ## <div align ="center">Spotify Playing 🎧 </div>
-<a href="https://open.spotify.com/user/31tb2733wogqgree7mjmebaq2ubm">
-<img align = "center" src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true">
-</a>
-## <div align ="center">Spotify Recently Played 🎵</div>
+ <a href="https://open.spotify.com/user/31tb2733wogqgree7mjmebaq2ubm">
+ <img align = "center" src="https://spotify-github-profile.vercel.app/api/view? 
+ uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true">
+ </a>
+<h2><div align ="center">Spotify Recently Played 🎵</div></h2>
 <a href="https://last.fm/user/VoyagerXD">
 <img align ="center" src="https://lastfm-recently-played.vercel.app/api?user=VoyagerXD">
 </a>
-## <div align ="center">⚡ GitHub Stats </div>
+<h2><div align ="center">⚡ GitHub Stats </div> </h2>
     <a href="https://github.com/priyam1234-spec/">
         <img align = "left" src="https://github-readme-stats.vercel.app/api?username=priyam1234-spec&count_private=true&show_owner=true&show_icons=true&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=00F3FF&hide_border=true/" />
     </a>
