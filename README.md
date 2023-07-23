@@ -1,8 +1,7 @@
-<p align ="center">
 [![Typing Svg](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=30&duration=2500&pause=1000&color=23F7D9&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+I+am+Priyam)](https://voyagerxd.repl.co)
-</p>
 
-## <div align ="center"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&duration=2500&pause=1000&color=5865F2&vCenter=true&width=435&lines=Discord"></div>
+
+## <div align ="center">Discord</div>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
 <h2> <div align="center"> Website </div> </h2>
