@@ -12,7 +12,7 @@
 
 ## <div align ="center">Spotify Playing 🎧 </div>
  <a href="https://open.spotify.com/user/31tb2733wogqgree7mjmebaq2ubm">
- <img align ="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1b9d9b&bar_color_cover=true">
+ <img align ="center" src="https://spotify-readme-mauve.vercel.app/api?theme=dark&rainbow=true">
  </a>
 <h2><div align ="center">Spotify Recently Played 🎵</div></h2>
 <a href="https://last.fm/user/VoyagerXD">
