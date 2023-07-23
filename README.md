@@ -12,7 +12,7 @@
 
 ## <div align ="center"> Profile Views </div>
 <p align ="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=priyam1234-spec&color=5865F2">
+<img align="center" src="https://profile-counter.glitch.me/priyam1234-spec/count.svg">
 
 ## <div align ="center">Spotify Playing 🎧 </div>
 <p align="center">
