@@ -1,5 +1,4 @@
-[![Typing Svg](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=30&duration=2500&pause=1000&color=23F7D9&center=true&width=500&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+I+am+Priyam)](https://voyagerxd.repl.co)
-
+# <div align="center">👋🏻 Hi, I am [Priyam](https://voyagerxd.repl.co) </div>
 
 ## <div align="center">Discord</div>
 <p align="center">
