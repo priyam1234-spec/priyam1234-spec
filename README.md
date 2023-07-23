@@ -1,7 +1,8 @@
 # <div align="center">👋 Hi there, I'm [Priyam](https://www.voyagerxd.repl.co)</div>
 
 ## <div align ="center"> Discord </div>
-<img align ="center" src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
 <h2> <div align="center"> Website </div> </h2>
 <img align = "center" src = "https://img.shields.io/website?label=voyagerxd.repl.co&style=for-the-badge&url=https%3A%2F%2Fvoyagerxd.repl.co"
     <a href="https://github.com/priyam1234-spec">
@@ -27,7 +28,8 @@
     </a>  <a href="https://github.com/priyam1234-spec/">
         <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyam1234-spec&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0D1117&title_color=00F3FF&text_color=00F3FF&icon_color=DB1CFF&hide_border=true/" />
     </a>
-</p>  
+</p> 
+</p>
 <br/>
 
 
