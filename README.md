@@ -3,13 +3,6 @@
 ## <div align="center">Discord</div>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
-<h2> <div align="center"> Website </div> </h2>
-<p align="center">
-<img align = "center" src = "https://img.shields.io/website?label=voyagerxd.repl.co&style=for-the-badge&url=https%3A%2F%2Fvoyagerxd.repl.co"
-    <a href="https://github.com/priyam1234-spec">
-    </a>
-</p>
-
 ## <div align ="center"> Profile Views </div>
 <p align ="center">
 <img align="center" src="https://profile-counter.glitch.me/priyam1234-spec/count.svg">
