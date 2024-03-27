@@ -3,7 +3,7 @@
 ## <div align="center">Discord</div>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
-## <div align ="center"> Profile Views </div>
+ <div align ="center"> Profile Views </div>
 <p align ="center">
 <img align="center" src="https://profile-counter.glitch.me/priyam1234-spec/count.svg">
 
