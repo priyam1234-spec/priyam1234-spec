@@ -1,8 +1,8 @@
-# <div align="center">👋🏻 Hi, I am Priyam </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-## <div align="center">Discord</div>
+ <div align="center">Discord</div>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/1107848440261660742.png">
  <div align ="center"> Profile Views </div>
